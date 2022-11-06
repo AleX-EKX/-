@@ -1,0 +1,443 @@
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\avtoriz.exe.config
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\avtoriz.exe
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\avtoriz.pdb
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\Google.Protobuf.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\Zstandard.Net.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\Renci.SshNet.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\System.Memory.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\System.Buffers.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\bin\Debug\MySql.Data.xml
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.exe.config
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.MainForm.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.registr.resources
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.exe
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.pdb
+E:\Домшка\РПМ\avtoriz\avtoriz\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz1\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz11\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.technical_support.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz3\avtoriz\obj\Debug\avtoriz.help.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.help.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.technical_support.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz4\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.csprojAssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.help.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.technical_support.resources
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\сп\C#\avtoriz5\avtoriz\obj\Debug\avtoriz.Clears.resources
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\avtoriz.exe.config
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\avtoriz.exe
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\avtoriz.pdb
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\MaterialSkin.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Buffers.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Memory.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Google.Protobuf.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Zstandard.Net.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Renci.SshNet.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\MySql.Data.xml
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Buffers.xml
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Memory.xml
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+Z:\Новые работы\Расписание зала\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.csprojResolveAssemblyReference.cache
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.avtoriz.exe.config
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.application.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.Clears.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.Exits.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.help.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.MainForm.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.registr.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.technical_support.resources
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.Cache
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.exe
+Z:\Новые работы\Расписание зала\avtoriz\obj\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\avtoriz.pdb
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\netstandard.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.AppContext.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Collections.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Collections.Specialized.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ComponentModel.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Console.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Data.Common.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Globalization.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.Compression.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.FileSystem.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.Pipes.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Linq.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Linq.Expressions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Linq.Parallel.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Linq.Queryable.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Http.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.NameResolution.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Ping.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Requests.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Security.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.Sockets.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Net.WebSockets.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ObjectModel.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Reflection.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Resources.Reader.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Resources.Writer.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Handles.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Claims.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.Principal.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Security.SecureString.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Text.Encoding.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.Tasks.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.Thread.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Threading.Timer.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.ValueTuple.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.XDocument.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.XPath.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\MaterialSkin.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\MySql.Data.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Buffers.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Memory.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Google.Protobuf.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Zstandard.Net.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Renci.SshNet.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\MySql.Data.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Buffers.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Memory.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.AssemblyReference.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.exe.config
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.application.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.BronButtoncs.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.Clears.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.Exits.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.help.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.loginForm1.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.MainForm.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.Properties.Resources.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.raspisanie.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.registr.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.technical_support.resources
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.GenerateResource.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.csproj.CopyComplete
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.exe
+C:\Users\naneh\OneDrive\Рабочий стол\учеба\src\Расписание зала\avtoriz\obj\Debug\avtoriz.pdb

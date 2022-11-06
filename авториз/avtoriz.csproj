@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props" Condition="Exists('..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43CA1A47-28EA-4EA8-8591-EEFECEFA7D4B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>avtoriz</RootNamespace>
+    <AssemblyName>avtoriz</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Sqlite, Version=5.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Sqlite.Core.5.0.4\lib\netstandard2.0\Microsoft.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.23.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.23\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.core, Version=2.0.4.976, Culture=neutral, PublicKeyToken=1488e028ca7ab535, processorArchitecture=MSIL">
+      <HintPath>..\packages\SQLitePCLRaw.core.2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animation\Animation.cs" />
+    <Compile Include="Animation\Animator.cs" />
+    <Compile Include="Animation\Drawer.cs" />
+    <Compile Include="Animation\brat_btn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BronButtoncs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BronButtoncs.Designer.cs">
+      <DependentUpon>BronButtoncs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clears.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clears.Designer.cs">
+      <DependentUpon>Clears.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DB.cs" />
+    <Compile Include="application.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="application.Designer.cs">
+      <DependentUpon>application.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exits.Designer.cs">
+      <DependentUpon>Exits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form.cs" />
+    <Compile Include="help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="help.Designer.cs">
+      <DependentUpon>help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loggeduser.cs" />
+    <Compile Include="loginForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm1.Designer.cs">
+      <DependentUpon>loginForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="raspisanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="raspisanie.Designer.cs">
+      <DependentUpon>raspisanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="registr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="registr.Designer.cs">
+      <DependentUpon>registr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="technical_support.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="technical_support.Designer.cs">
+      <DependentUpon>technical_support.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WeekDays.cs" />
+    <EmbeddedResource Include="application.resx">
+      <DependentUpon>application.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BronButtoncs.resx">
+      <DependentUpon>BronButtoncs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clears.resx">
+      <DependentUpon>Clears.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exits.resx">
+      <DependentUpon>Exits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="help.resx">
+      <DependentUpon>help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm1.resx">
+      <DependentUpon>loginForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="raspisanie.resx">
+      <DependentUpon>raspisanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registr.resx">
+      <DependentUpon>registr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="technical_support.resx">
+      <DependentUpon>technical_support.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\1587215672_8-p-foni-dlya-prilozhenii-15.jpg" />
+    <None Include="Images\help\вход.png" />
+    <None Include="Images\help\меню.png" />
+    <None Include="Images\help\расп.png" />
+    <None Include="Images\help\регистр.png" />
+    <None Include="Images\help\техпод.png" />
+    <None Include="Images\help\расп1.png" />
+    <None Include="Images\help\заяв.png" />
+    <Content Include="Images\par.jpg" />
+    <Content Include="Images\pol.jpg" />
+    <Content Include="Images\programming-06.jpg" />
+    <Content Include="Images\Y92AlZGymnasium-FT68Im.png" />
+    <None Include="Images\учеб.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets'))" />
+  </Target>
+  <Import Project="..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets" Condition="Exists('..\packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets')" />
+</Project>
